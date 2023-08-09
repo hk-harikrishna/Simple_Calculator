@@ -16,3 +16,4 @@
 ### Open the HTML file in a web browser to interact with the calculator interface.
 ### This template can be extended and customized to include additional features or to match specific design preferences.
 
+![simple_calc](https://github.com/hk-harikrishna/Simple_Calculator/assets/126389081/50ab91ca-9edd-4987-9f4b-38fad1ddb34b)
